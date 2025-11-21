@@ -1,11 +1,13 @@
 ### Hi there 👋 I'm Sarp Onaran
 
-I'm a Software Engineering student at **Işık University**, passionate about building software and solving problems.
+I'm a **Software Engineering student** at **Işık University**. I am passionate about engineering principles, software architecture, and problem-solving.
 
-- 🔭 I’m currently working on improving my skills in **Java** and **Backend Development**.
-- 🌱 I’m currently learning **Data Structures & Algorithms**.
-- 🎓 Exploring Computer Science fundamentals (specifically MIPS & Computer Architecture).
-- ⚡ Fun fact: I am also interested in fitness and tech hardware optimization.
+- 🔭 I’m currently exploring different fields of the tech industry to broaden my perspective.
+- 🌱 I’m focused on strengthening my **Computer Science fundamentals**.
+- 💡 Always eager to learn new technologies and methodologies.
+- ⚡ **Goal:** Building scalable and efficient software solutions.
 
 ---
-Last updated: November 2025
+### 🛠 Languages & Tools
+Java
+
